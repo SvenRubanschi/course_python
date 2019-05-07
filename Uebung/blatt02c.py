@@ -1,3 +1,5 @@
+# calculation of compound interest
+
 kapital = float(input("Enter your capital "))
 zielKapital = float(input("Enter your target capital "))
 ZINS = float(input("The interest rate "))
